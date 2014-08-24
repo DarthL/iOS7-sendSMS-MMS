@@ -1,0 +1,9 @@
+Package: com.yourcompany.sendsmsmms
+Name: sendsmsmms
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 梁伟
+Author: 梁伟
+Section: Tweaks
